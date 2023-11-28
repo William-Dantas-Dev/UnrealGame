@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Projects/FirstProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Levels/Start_Level.umap",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Blueprints/BP_GameMode.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Blueprints/Characters/BP_BaseCharacter.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Blueprints/Characters/BP_PlayerCharacter.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Blueprints/Actions/IA_Move.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Blueprints/Actions/IMC_InputMappings.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Blueprints/Actions/IA_Look.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Blueprints/Actions/IA_Jump.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Animations/BlendSpace/BS_Locomotion.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Pirate/Demoscene_UE5/Animations/MM_Idle.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Pirate/Demoscene_UE5/Animations/MM_Run_Fwd.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Pirate/Demoscene_UE5/Animations/MM_Walk_Fwd.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Pirate/Demoscene_UE5/Animations/MM_Walk_InPlace.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Pirate/Demoscene_UE5/Animations/MM_Fall_Loop.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Pirate/Demoscene_UE5/Animations/MM_Jump.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Pirate/Demoscene_UE5/Animations/MM_Land.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Animations/BP_PirateAnimation.uasset",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/Levels/Level_Start.umap",
+				"D:/Unreal Engine Projects/FirstProject/Content/Game/BP_Characters/BP_Player_Character.uasset"
+			]
+		}
+	]
+}
